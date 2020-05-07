@@ -1,0 +1,2 @@
+rootProject.name='ARCodelab1'
+include ':app'
